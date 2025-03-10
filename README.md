@@ -4,5 +4,7 @@
 
 <em align="center"> Probando título cursivo <em>
 
-- Estado del Proyecto: Terminado.
+   <p align="left">
+     <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
 
